@@ -1,7 +1,6 @@
 <div align="center">
-  <img border-radius: 15px src="Lfa.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="maalooty" src="https://img.shields.io/badge/maalooty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="zoro-md" src="https://img.shields.io/badge/maalooty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
