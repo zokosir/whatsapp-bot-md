@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<a href="#"><img title="zoro-md" src="https://img.shields.io/badge/maalooty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="zoro-md" src="https://img.shields.io/badge/Z O R O -M D-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 
